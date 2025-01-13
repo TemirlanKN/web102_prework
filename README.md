@@ -55,6 +55,18 @@ Challenges:
 * Development Tools: Visual Studio Code, Git/GitHub, Live Server plugin
 * Workflow: Version control with Git, project setup and management with GitHub.
 
+## Passwords used
+
+* instructions
+* seaworthy
+* OOZEdiveTRAPpine
+* 6games-container.stats-card15
+* 11seafoamGAMES_JSON
+* 19187800268BRAIN
+* 74FLANNELclick
+* toLocaleString<div>1IVY
+* ZooHowCEDAR
+
 ## License
 
     Copyright [2025] [TemirlanKN]

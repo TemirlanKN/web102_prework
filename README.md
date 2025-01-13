@@ -64,7 +64,7 @@ Challenges:
 * 11seafoamGAMES_JSON
 * 19187800268BRAIN
 * 74FLANNELclick
-* toLocaleString<div>1IVY
+* toLocaleString\<div\>1IVY
 * ZooHowCEDAR
 
 ## License

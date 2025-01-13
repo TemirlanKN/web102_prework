@@ -1,4 +1,4 @@
-# Android Prework - *Sea Monster Crowdfunding*
+# Web App - *Sea Monster Crowdfunding*
 
 Submitted by: **Temirlan Kdyrkhan**
 
